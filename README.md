@@ -6,4 +6,5 @@ https://apple.stackexchange.com/questions/95246/wake-other-computers-from-mac-os
 
 ## Usage
 Just clone the repo and make the script executable or call it via python3.
+
 `python3 wakeonlan.py <BROADCAST-ADDRESS> <MAC-ID>`
